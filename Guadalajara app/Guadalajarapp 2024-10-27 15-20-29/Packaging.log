@@ -1,0 +1,125 @@
+2024-10-27 20:20:23 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x1092a9f70; archive(resolved)="<IDEArchive: 0x6000098a73a0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x1092a9f70; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x10927d510; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10925b2c0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x17c9a5220; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x17c9a14f0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3336d0180; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x109244420; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1092437c0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x121659f30; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002c9f300; teamID='63B8N9Z9DR', teamName='Daniel Moreno', teamType='Individual', username='bastian.moreton@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x17f1a1cd0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="(null)">
+	<IDEDistributionContext: 0x1092435b0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="(null)">
+	<IDEDistributionContext: 0x17c9aa090; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="(null)">
+	<IDEDistributionContext: 0x17c9ad610; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600007354310>", team="(null)">
+	<IDEDistributionContext: 0x107d66030; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x10924edf0; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x17f178520; archive = "<IDEArchive: 0x6000098a73a0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x1092a9f70>
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionCopyItemStep
+2024-10-27 20:20:23 +0000  Running /usr/bin/ditto '-V' '/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app' '/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app'
+2024-10-27 20:20:23 +0000  >>> Copying /Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app 
+2024-10-27 20:20:23 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-10-27 20:20:23 +0000  2317 bytes for ./_CodeSignature/CodeResources
+2024-10-27 20:20:23 +0000  copying file ./Assets.car ... 
+2024-10-27 20:20:23 +0000  72687 bytes for ./Assets.car
+2024-10-27 20:20:23 +0000  copying file ./Guadalajarapp ... 
+2024-10-27 20:20:23 +0000  223648 bytes for ./Guadalajarapp
+2024-10-27 20:20:23 +0000  copying file ./embedded.mobileprovision ... 
+2024-10-27 20:20:23 +0000  12301 bytes for ./embedded.mobileprovision
+2024-10-27 20:20:23 +0000  copying file ./Info.plist ... 
+2024-10-27 20:20:23 +0000  1306 bytes for ./Info.plist
+2024-10-27 20:20:23 +0000  copying file ./PkgInfo ... 
+2024-10-27 20:20:23 +0000  8 bytes for ./PkgInfo
+2024-10-27 20:20:23 +0000  /usr/bin/ditto exited with 0
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-10-27 20:20:23 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-10-27 20:20:23 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionSymbolsStep
+2024-10-27 20:20:23 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionAppThinningStep
+2024-10-27 20:20:23 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionArchThinningStep
+2024-10-27 20:20:23 +0000  Item /Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-27 20:20:23 +0000  Archs to thin for item /Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app are ["arm64e"]
+2024-10-27 20:20:23 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app/Guadalajarapp' '-verify_arch' 'arm64e'
+2024-10-27 20:20:23 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-27 20:20:23 +0000  Skipping architecture thinning for item "Guadalajarapp" because arch "arm64e" wasn't found
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionODRStep
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-10-27 20:20:23 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-27 20:20:23 +0000  Processing step: IDEDistributionCodesignStep
+2024-10-27 20:20:23 +0000  Entitlements for <IDEDistributionItem: 0x60000d5cc3c0; bundleID='danimore.com.Guadalajarapp', path='<DVTFilePath:0x6000098ffd40:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000964ce60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004550e40; name='Apple Development: bastian.moreton@gmail.com (JKPTD68G9W)', hash='E9EABB1884A4A97D7A18BCD3B37EA9A1F824D718', serialNumber='7BD586E6724FDF19035DC5BCB0FBC1E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-06-15 02:33:08 +0000''>', entitlements='{
+    "application-identifier" = "63B8N9Z9DR.danimore.com.Guadalajarapp";
+    "com.apple.developer.team-identifier" = 63B8N9Z9DR;
+    "get-task-allow" = 1;
+}', teamID='63B8N9Z9DR', identifier='danimore.com.Guadalajarapp', executablePath='<DVTFilePath:0x60000d427c60:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app/Guadalajarapp'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "63B8N9Z9DR.danimore.com.Guadalajarapp";
+    "com.apple.developer.team-identifier" = 63B8N9Z9DR;
+    "get-task-allow" = 1;
+}
+2024-10-27 20:20:23 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-27 20:20:23 +0000  Entitlements for <IDEDistributionItem: 0x60000d5cc3c0; bundleID='danimore.com.Guadalajarapp', path='<DVTFilePath:0x6000098ffd40:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000964ce60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004550d80; name='Apple Development: bastian.moreton@gmail.com (JKPTD68G9W)', hash='E9EABB1884A4A97D7A18BCD3B37EA9A1F824D718', serialNumber='7BD586E6724FDF19035DC5BCB0FBC1E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-06-15 02:33:08 +0000''>', entitlements='{
+    "application-identifier" = "63B8N9Z9DR.danimore.com.Guadalajarapp";
+    "com.apple.developer.team-identifier" = 63B8N9Z9DR;
+    "get-task-allow" = 1;
+}', teamID='63B8N9Z9DR', identifier='danimore.com.Guadalajarapp', executablePath='<DVTFilePath:0x60000d427c60:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app/Guadalajarapp'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "63B8N9Z9DR.danimore.com.Guadalajarapp";
+    "com.apple.developer.team-identifier" = 63B8N9Z9DR;
+    "get-task-allow" = 1;
+}
+2024-10-27 20:20:24 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d5cc3c0; bundleID='danimore.com.Guadalajarapp', path='<DVTFilePath:0x6000098ffd40:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000964ce60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600000adc0c0; name='Apple Development: bastian.moreton@gmail.com (JKPTD68G9W)', hash='E9EABB1884A4A97D7A18BCD3B37EA9A1F824D718', serialNumber='7BD586E6724FDF19035DC5BCB0FBC1E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-06-15 02:33:08 +0000''>', entitlements='{
+    "application-identifier" = "63B8N9Z9DR.danimore.com.Guadalajarapp";
+    "com.apple.developer.team-identifier" = 63B8N9Z9DR;
+    "get-task-allow" = 1;
+}', teamID='63B8N9Z9DR', identifier='danimore.com.Guadalajarapp', executablePath='<DVTFilePath:0x60000d427c60:'/Users/danimore/Library/Developer/Xcode/Archives/2024-10-27/Guadalajarapp 10-27-24, 3.19 PM.xcarchive/Products/Applications/Guadalajarapp.app/Guadalajarapp'>', hardenedRuntime='0'>'> to: /var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/entitlements~~~kySGmJ
+2024-10-27 20:20:24 +0000  invoking codesign: <NSConcreteTask: 0x60000969d4a0; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    E9EABB1884A4A97D7A18BCD3B37EA9A1F824D718,
+    "--entitlements",
+    "/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/entitlements~~~kySGmJ",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app"
+)'>
+2024-10-27 20:20:24 +0000  codesign output: /var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app: replacing existing signature
+/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app: signed app bundle with Mach-O thin (arm64) [danimore.com.Guadalajarapp]
+2024-10-27 20:20:24 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-10-27 20:20:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-27 20:20:24 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-10-27 20:20:24 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root' '/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Packages/Guadalajarapp.ipa'
+2024-10-27 20:20:24 +0000  >>> Copying /var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root 
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/_CodeSignature/CodeResources ... 
+2024-10-27 20:20:24 +0000  2317 bytes for ./Payload/Guadalajarapp.app/_CodeSignature/CodeResources
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/Assets.car ... 
+2024-10-27 20:20:24 +0000  72687 bytes for ./Payload/Guadalajarapp.app/Assets.car
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/Guadalajarapp ... 
+2024-10-27 20:20:24 +0000  223648 bytes for ./Payload/Guadalajarapp.app/Guadalajarapp
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/embedded.mobileprovision ... 
+2024-10-27 20:20:24 +0000  12301 bytes for ./Payload/Guadalajarapp.app/embedded.mobileprovision
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/Info.plist ... 
+2024-10-27 20:20:24 +0000  1306 bytes for ./Payload/Guadalajarapp.app/Info.plist
+2024-10-27 20:20:24 +0000  copying file ./Payload/Guadalajarapp.app/PkgInfo ... 
+2024-10-27 20:20:24 +0000  8 bytes for ./Payload/Guadalajarapp.app/PkgInfo
+2024-10-27 20:20:24 +0000  /usr/bin/ditto exited with 0
+2024-10-27 20:20:24 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-10-27 20:20:24 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-10-27 20:20:24 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-10-27 20:20:24 +0000  IDEDistributionItem init <DVTFilePath:0x60000db4d1f0:'/var/folders/yg/3cx6qz215k37x_sxhnt3sx6h0000gn/T/XcodeDistPipeline.~~~dwDXpF/Root/Payload/Guadalajarapp.app'>
+2024-10-27 20:20:24 +0000  Processing step: IDEDistributionCreateManifestStep
